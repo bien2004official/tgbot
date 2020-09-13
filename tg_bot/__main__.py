@@ -23,15 +23,13 @@ Hello {}, my name is *{}*! I'm a group manager bot.
 
 You can find the list of available commands with /help. 
 
-If you can't find answer to your question, if you want to submit a bug or a feature request - feel free to do it in @bot\_workshop group.
-
-We have a news channel too, @bot\_workshop\_channel, for announcements regarding features added, downtime etc.
+If you can't find answer to your question, if you want to submit a bug or a feature request - feel free to do it by PMing @bien2004official - my owner.
 
 Last but not least, if you enjoy using me and/or you want to contribute you can hit /donate to help funding my hosting services.
 """
 
 SOURCE_STRING = """
-I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/corsicanu/tgbot)
+I'm built in python3, using the python-telegram-bot library.
 """
 
 HELP_STRINGS = """
@@ -52,7 +50,7 @@ Other available commands:
 """.format("" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 DONATE_STRING = """
-You can send a donation to my current maintainers, @corsicanu and @nunopenim, via PayPal at paypal.me/corsicanu and/or paypal.me/nunopenim."""
+You can send a donation to my current maintainers, @bien2004official, via PayPal at paypal.me/bien2004official."""
 
 IMPORTED = {}
 MIGRATEABLE = []
