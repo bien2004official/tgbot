@@ -50,7 +50,7 @@ Other available commands:
 """.format("" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 DONATE_STRING = """
-You can send a donation to my current maintainers, @bien2004official, via PayPal at paypal.me/bien2004official."""
+You can send a donation to my owner, @bien2004official, via PayPal at paypal.me/bien2004official."""
 
 IMPORTED = {}
 MIGRATEABLE = []
